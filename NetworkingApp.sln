@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkingApp.Models", "Net
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkingApp.Data", "NetworkingApp.Data\NetworkingApp.Data.csproj", "{A13F3ED6-16EC-43F5-A620-56674A71D3B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkingApp.Contracts", "NetworkingApp.Contracts\NetworkingApp.Contracts.csproj", "{D1EA2198-CD1E-4E47-8BCC-7670B42322B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A13F3ED6-16EC-43F5-A620-56674A71D3B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A13F3ED6-16EC-43F5-A620-56674A71D3B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A13F3ED6-16EC-43F5-A620-56674A71D3B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1EA2198-CD1E-4E47-8BCC-7670B42322B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1EA2198-CD1E-4E47-8BCC-7670B42322B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1EA2198-CD1E-4E47-8BCC-7670B42322B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1EA2198-CD1E-4E47-8BCC-7670B42322B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -53,6 +53,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConnectionCreateModel.cs" />
+    <Compile Include="ConnectionDetailModel.cs" />
+    <Compile Include="ConnectionEditModel.cs" />
+    <Compile Include="ConnectionListModel.cs" />
+    <Compile Include="EventCreateModel.cs" />
+    <Compile Include="EventDetailModel.cs" />
+    <Compile Include="EventEditModel.cs" />
+    <Compile Include="EventListModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
